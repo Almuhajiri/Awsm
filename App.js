@@ -7,6 +7,9 @@ export default class App extends React.Component{
     return (
       <View>
         <Judul/>
+        <Judul title="BIODATA"/>
+        <Judul title="SISWA"/>
+        <Judul title="SMK"/>
         <Text>Yunus Mutashimbillah Almuhajiri</Text>
         <Text>XI RPL 4 / 36</Text>
         <Text>SMK Telkom Purwokerto</Text>
